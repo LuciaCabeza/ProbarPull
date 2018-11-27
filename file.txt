@@ -1,0 +1,5 @@
+Desarrollamos un archivo
+- creamos un documento
+- realizaremos cambios
+- solicitaremos cambios con pull request
+
